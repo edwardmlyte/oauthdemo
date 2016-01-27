@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/edwardmlyte/oauthdemo.svg?branch=master)](https://travis-ci.org/edwardmlyte/oauthdemo)
+{<img src="https://travis-ci.org/edwardmlyte/oauthdemo.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/edwardmlyte/oauthdemo]
 
 = Spring Boot OAuth Demo
 
